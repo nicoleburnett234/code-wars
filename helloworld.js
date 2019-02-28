@@ -1,3 +1,3 @@
 function name() {
-    console.log("Hello world")
+    console.log("I'm awesome")
 }
